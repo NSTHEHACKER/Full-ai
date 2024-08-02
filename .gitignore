@@ -8,10 +8,10 @@ __pycache__/
 
 
 # Ignore the bin directory
-.bin/
+bin/
 
 # Ignore the lib64 directory
-.lib64/
+lib64/
 
 # Distribution / packaging
 .Python
